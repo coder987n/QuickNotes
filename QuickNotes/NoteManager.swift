@@ -8,6 +8,19 @@
 
 import UIKit
 
+var noteMgr: NoteManager = NoteManager()
+
+struct note {
+    var name = "Un-Named"
+    var desc = "Un-Descripted"
+}
+
 class NoteManager: NSObject {
+    
+    var notes = [note]()
+    
+    func addNote(name: String, desc: String) {
+        notes.append(note(name: name, desc: desc))
+    }
 
 }

@@ -15,6 +15,7 @@
 		A7FE3A621CD10C890070852A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7FE3A601CD10C890070852A /* LaunchScreen.storyboard */; };
 		A7FE3A6D1CD10C890070852A /* QuickNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FE3A6C1CD10C890070852A /* QuickNotesTests.swift */; };
 		A7FE3A781CD10C890070852A /* QuickNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FE3A771CD10C890070852A /* QuickNotesUITests.swift */; };
+		A7FE3A861CD1660C0070852A /* NoteManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FE3A851CD1660C0070852A /* NoteManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A7FE3A731CD10C890070852A /* QuickNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FE3A771CD10C890070852A /* QuickNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNotesUITests.swift; sourceTree = "<group>"; };
 		A7FE3A791CD10C890070852A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7FE3A851CD1660C0070852A /* NoteManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A7FE3A5E1CD10C890070852A /* Assets.xcassets */,
 				A7FE3A601CD10C890070852A /* LaunchScreen.storyboard */,
 				A7FE3A631CD10C890070852A /* Info.plist */,
+				A7FE3A851CD1660C0070852A /* NoteManager.swift */,
 			);
 			path = QuickNotes;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7FE3A5A1CD10C890070852A /* SecondViewController.swift in Sources */,
+				A7FE3A861CD1660C0070852A /* NoteManager.swift in Sources */,
 				A7FE3A561CD10C890070852A /* AppDelegate.swift in Sources */,
 				A7FE3A581CD10C890070852A /* FirstViewController.swift in Sources */,
 			);
