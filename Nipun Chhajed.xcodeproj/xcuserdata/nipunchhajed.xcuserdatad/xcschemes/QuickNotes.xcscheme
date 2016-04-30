@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A7FE3A511CD10C890070852A"
-               BuildableName = "QuickNotes.app"
-               BlueprintName = "QuickNotes"
-               ReferencedContainer = "container:QuickNotes.xcodeproj">
+               BuildableName = "Nipun Chhajed.app"
+               BlueprintName = "Nipun Chhajed"
+               ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A7FE3A671CD10C890070852A"
-               BuildableName = "QuickNotesTests.xctest"
-               BlueprintName = "QuickNotesTests"
-               ReferencedContainer = "container:QuickNotes.xcodeproj">
+               BuildableName = "Nipun Chhajed.xctest"
+               BlueprintName = "Nipun ChhajedTests"
+               ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A7FE3A721CD10C890070852A"
-               BuildableName = "QuickNotesUITests.xctest"
-               BlueprintName = "QuickNotesUITests"
-               ReferencedContainer = "container:QuickNotes.xcodeproj">
+               BuildableName = "Nipun Chhajed.xctest"
+               BlueprintName = "Nipun ChhajedUITests"
+               ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7FE3A511CD10C890070852A"
-            BuildableName = "QuickNotes.app"
-            BlueprintName = "QuickNotes"
-            ReferencedContainer = "container:QuickNotes.xcodeproj">
+            BuildableName = "Nipun Chhajed.app"
+            BlueprintName = "Nipun Chhajed"
+            ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7FE3A511CD10C890070852A"
-            BuildableName = "QuickNotes.app"
-            BlueprintName = "QuickNotes"
-            ReferencedContainer = "container:QuickNotes.xcodeproj">
+            BuildableName = "Nipun Chhajed.app"
+            BlueprintName = "Nipun Chhajed"
+            ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7FE3A511CD10C890070852A"
-            BuildableName = "QuickNotes.app"
-            BlueprintName = "QuickNotes"
-            ReferencedContainer = "container:QuickNotes.xcodeproj">
+            BuildableName = "Nipun Chhajed.app"
+            BlueprintName = "Nipun Chhajed"
+            ReferencedContainer = "container:Nipun Chhajed.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

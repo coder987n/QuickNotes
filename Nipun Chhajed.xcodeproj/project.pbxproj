@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A7FE3A521CD10C890070852A /* QuickNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7FE3A521CD10C890070852A /* Nipun Chhajed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nipun Chhajed.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FE3A551CD10C890070852A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7FE3A571CD10C890070852A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		A7FE3A591CD10C890070852A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
@@ -44,10 +44,10 @@
 		A7FE3A5E1CD10C890070852A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7FE3A611CD10C890070852A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7FE3A631CD10C890070852A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A7FE3A681CD10C890070852A /* QuickNotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickNotesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7FE3A681CD10C890070852A /* Nipun Chhajed.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nipun Chhajed.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FE3A6C1CD10C890070852A /* QuickNotesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNotesTests.swift; sourceTree = "<group>"; };
 		A7FE3A6E1CD10C890070852A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A7FE3A731CD10C890070852A /* QuickNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7FE3A731CD10C890070852A /* Nipun Chhajed.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nipun Chhajed.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FE3A771CD10C890070852A /* QuickNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNotesUITests.swift; sourceTree = "<group>"; };
 		A7FE3A791CD10C890070852A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7FE3A851CD1660C0070852A /* NoteManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteManager.swift; sourceTree = "<group>"; };
@@ -91,9 +91,9 @@
 		A7FE3A531CD10C890070852A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A7FE3A521CD10C890070852A /* QuickNotes.app */,
-				A7FE3A681CD10C890070852A /* QuickNotesTests.xctest */,
-				A7FE3A731CD10C890070852A /* QuickNotesUITests.xctest */,
+				A7FE3A521CD10C890070852A /* Nipun Chhajed.app */,
+				A7FE3A681CD10C890070852A /* Nipun Chhajed.xctest */,
+				A7FE3A731CD10C890070852A /* Nipun Chhajed.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -134,9 +134,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A7FE3A511CD10C890070852A /* QuickNotes */ = {
+		A7FE3A511CD10C890070852A /* Nipun Chhajed */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7FE3A7C1CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotes" */;
+			buildConfigurationList = A7FE3A7C1CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun Chhajed" */;
 			buildPhases = (
 				A7FE3A4E1CD10C890070852A /* Sources */,
 				A7FE3A4F1CD10C890070852A /* Frameworks */,
@@ -146,14 +146,14 @@
 			);
 			dependencies = (
 			);
-			name = QuickNotes;
+			name = "Nipun Chhajed";
 			productName = QuickNotes;
-			productReference = A7FE3A521CD10C890070852A /* QuickNotes.app */;
+			productReference = A7FE3A521CD10C890070852A /* Nipun Chhajed.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A7FE3A671CD10C890070852A /* QuickNotesTests */ = {
+		A7FE3A671CD10C890070852A /* Nipun ChhajedTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7FE3A7F1CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotesTests" */;
+			buildConfigurationList = A7FE3A7F1CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun ChhajedTests" */;
 			buildPhases = (
 				A7FE3A641CD10C890070852A /* Sources */,
 				A7FE3A651CD10C890070852A /* Frameworks */,
@@ -164,14 +164,14 @@
 			dependencies = (
 				A7FE3A6A1CD10C890070852A /* PBXTargetDependency */,
 			);
-			name = QuickNotesTests;
+			name = "Nipun ChhajedTests";
 			productName = QuickNotesTests;
-			productReference = A7FE3A681CD10C890070852A /* QuickNotesTests.xctest */;
+			productReference = A7FE3A681CD10C890070852A /* Nipun Chhajed.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A7FE3A721CD10C890070852A /* QuickNotesUITests */ = {
+		A7FE3A721CD10C890070852A /* Nipun ChhajedUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7FE3A821CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotesUITests" */;
+			buildConfigurationList = A7FE3A821CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun ChhajedUITests" */;
 			buildPhases = (
 				A7FE3A6F1CD10C890070852A /* Sources */,
 				A7FE3A701CD10C890070852A /* Frameworks */,
@@ -182,9 +182,9 @@
 			dependencies = (
 				A7FE3A751CD10C890070852A /* PBXTargetDependency */,
 			);
-			name = QuickNotesUITests;
+			name = "Nipun ChhajedUITests";
 			productName = QuickNotesUITests;
-			productReference = A7FE3A731CD10C890070852A /* QuickNotesUITests.xctest */;
+			productReference = A7FE3A731CD10C890070852A /* Nipun Chhajed.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -210,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7FE3A4D1CD10C890070852A /* Build configuration list for PBXProject "QuickNotes" */;
+			buildConfigurationList = A7FE3A4D1CD10C890070852A /* Build configuration list for PBXProject "Nipun Chhajed" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -223,9 +223,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A7FE3A511CD10C890070852A /* QuickNotes */,
-				A7FE3A671CD10C890070852A /* QuickNotesTests */,
-				A7FE3A721CD10C890070852A /* QuickNotesUITests */,
+				A7FE3A511CD10C890070852A /* Nipun Chhajed */,
+				A7FE3A671CD10C890070852A /* Nipun ChhajedTests */,
+				A7FE3A721CD10C890070852A /* Nipun ChhajedUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -290,12 +290,12 @@
 /* Begin PBXTargetDependency section */
 		A7FE3A6A1CD10C890070852A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A7FE3A511CD10C890070852A /* QuickNotes */;
+			target = A7FE3A511CD10C890070852A /* Nipun Chhajed */;
 			targetProxy = A7FE3A691CD10C890070852A /* PBXContainerItemProxy */;
 		};
 		A7FE3A751CD10C890070852A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A7FE3A511CD10C890070852A /* QuickNotes */;
+			target = A7FE3A511CD10C890070852A /* Nipun Chhajed */;
 			targetProxy = A7FE3A741CD10C890070852A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -412,7 +412,7 @@
 				INFOPLIST_FILE = QuickNotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotes;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Nipun Chhajed";
 			};
 			name = Debug;
 		};
@@ -423,7 +423,7 @@
 				INFOPLIST_FILE = QuickNotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotes;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Nipun Chhajed";
 			};
 			name = Release;
 		};
@@ -434,8 +434,8 @@
 				INFOPLIST_FILE = QuickNotesTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotesTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/QuickNotes.app/QuickNotes";
+				PRODUCT_NAME = "Nipun Chhajed";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nipun Chhajed.app/Nipun Chhajed";
 			};
 			name = Debug;
 		};
@@ -446,8 +446,8 @@
 				INFOPLIST_FILE = QuickNotesTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotesTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/QuickNotes.app/QuickNotes";
+				PRODUCT_NAME = "Nipun Chhajed";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nipun Chhajed.app/Nipun Chhajed";
 			};
 			name = Release;
 		};
@@ -457,7 +457,7 @@
 				INFOPLIST_FILE = QuickNotesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotesUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Nipun Chhajed";
 				TEST_TARGET_NAME = QuickNotes;
 			};
 			name = Debug;
@@ -468,7 +468,7 @@
 				INFOPLIST_FILE = QuickNotesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.program5.QuickNotesUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Nipun Chhajed";
 				TEST_TARGET_NAME = QuickNotes;
 			};
 			name = Release;
@@ -476,7 +476,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7FE3A4D1CD10C890070852A /* Build configuration list for PBXProject "QuickNotes" */ = {
+		A7FE3A4D1CD10C890070852A /* Build configuration list for PBXProject "Nipun Chhajed" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7FE3A7A1CD10C890070852A /* Debug */,
@@ -485,29 +485,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A7FE3A7C1CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotes" */ = {
+		A7FE3A7C1CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun Chhajed" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7FE3A7D1CD10C890070852A /* Debug */,
 				A7FE3A7E1CD10C890070852A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A7FE3A7F1CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotesTests" */ = {
+		A7FE3A7F1CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun ChhajedTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7FE3A801CD10C890070852A /* Debug */,
 				A7FE3A811CD10C890070852A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A7FE3A821CD10C890070852A /* Build configuration list for PBXNativeTarget "QuickNotesUITests" */ = {
+		A7FE3A821CD10C890070852A /* Build configuration list for PBXNativeTarget "Nipun ChhajedUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7FE3A831CD10C890070852A /* Debug */,
 				A7FE3A841CD10C890070852A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

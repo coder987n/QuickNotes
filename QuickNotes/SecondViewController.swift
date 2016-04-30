@@ -8,8 +8,11 @@
 
 import UIKit
 
-class SecondViewController: UIViewController, UITextFieldDelegate {
-
+class SecondViewController: UIViewController, UITextViewDelegate {
+    
+    @IBOutlet var txtNote: UITextField!
+    @IBOutlet var txtDesc: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,10 +23,19 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
         // Dispose of any resources that can be recreated.
     }
     
-    func textFieldShouldReturn(textField: UITextField) -> Bool {
-        textField.resignFirstResponder();
-        return true
+    //Events
+    @IBAction func btnAddNotes_Click(sender: UIButton) {
+        noteMgr.addNote(txtNote.text!, desc: txtDesc.text!)
+        self.view.endEditing(true)
+        txtNote.text = ""
+        txtDesc.text = ""
+        self.tabBarController?.selectedIndex = 0
     }
-
+    
+    //IOS Touch Functions
+    override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
+        self.view.endEditing(true)
+    }
+    
 }
 
